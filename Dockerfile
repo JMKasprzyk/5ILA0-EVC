@@ -1,9 +1,9 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG REPO_NAME="5ILA0-EVC"
+ARG DESCRIPTION="DT Project template for the Local project intended for Custon ROS nodes to be ran in a ROS distribution"
+ARG MAINTAINER="Jakub Maksymilian Kasprzyk (j.m.kasprzyk@student.tue.nl)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
-ARG ICON="cube"
+ARG ICON="twitter"
 
 # ==================================================>
 # ==> Do not change the code below this line
